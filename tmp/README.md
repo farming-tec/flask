@@ -1,0 +1,1 @@
+Copy any file inside this folder to keep in your local machine. They will be ignored by git.
